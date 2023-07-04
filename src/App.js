@@ -1,7 +1,7 @@
 import logo from './components/lawyer-logo.jpg';
 import './App.css';
 
-function App() {
+export default function App() {
   return (
     <main>
       <header>
@@ -11,5 +11,3 @@ function App() {
     </main>
   );
 }
-
-export default App;
